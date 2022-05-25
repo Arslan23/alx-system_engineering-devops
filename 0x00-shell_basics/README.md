@@ -20,4 +20,4 @@ julien@ubuntu:/tmp$ ./lll
 12-file_type
 lll
 julien@ubuntu:/tmp$
-</code></pre>  </div> </div>  <div class="panel panel-default" id="project-quiz-questions-title">  <div class="panel-heading">  <h3 class="panel-title"> Quiz questions </h3>  </div>
+</code></pre>  </div> </div>  <div class="panel panel-default" id="project-quiz-questions-title">  <div class="panel-heading">  <h3 class="panel-title"> </h3>  </div>
